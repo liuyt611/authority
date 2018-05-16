@@ -209,7 +209,6 @@ export default {
     },
     // 取消提交
     cancelEdit() {
-      console.log('测试');
       this.resetFormData();
     },
 
