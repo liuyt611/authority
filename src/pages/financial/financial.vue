@@ -209,6 +209,7 @@ export default {
     },
     // 取消提交
     cancelEdit() {
+      console.log('hello-worod');
       this.resetFormData();
     },
 
